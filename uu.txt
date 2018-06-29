@@ -1,1 +1,1 @@
-init lkj1 init
+init master init
